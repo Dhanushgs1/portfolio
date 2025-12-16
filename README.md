@@ -1,5 +1,9 @@
 # Dhanush - AI & Data Science Portfolio
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://dhanushgs1.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Dhanushgs1-blue)](https://github.com/Dhanushgs1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanush%20GS-blue)](https://www.linkedin.com/in/dhanush-gs/)
+
 A modern, responsive personal portfolio website showcasing AI and Data Science skills.
 
 ## 🚀 Features
